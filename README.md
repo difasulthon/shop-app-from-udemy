@@ -1,2 +1,2 @@
 # shop-app-from-udemy
-This is react native application apps with expo from Udemy course
+This is react native apps with expo from Udemy course
